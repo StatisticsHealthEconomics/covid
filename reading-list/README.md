@@ -25,8 +25,7 @@ Here are some relevant supporting material that you can have a look at
 
 ## Hierarchical/multilevel modelling
 - [Bayesian inference with INLA (specifically chapters 3 and 4](https://becarioprecario.bitbucket.io/inla-gitbook/index.html). This is a very good book on the basics of Bayesian modelling, but using "Integrated Nested Laplace Approximation" for computation. It may be a bit technical, but useful, particularly when dealing with larger datasets.
-
-[Data Analysis Using Regression and Multilevel/Hierarchical Models ](https://www-cambridge-org.libproxy.ucl.ac.uk/highereducation/books/data-analysis-using-regression-and-multilevel-hierarchical-models/32A29531C7FD730C3A68951A17C9D983). This is a comprehensive manual for the applied researcher who wants to perform data analysis using linear and nonlinear regression and multilevel models. 
+- [Data Analysis Using Regression and Multilevel/Hierarchical Models ](https://www-cambridge-org.libproxy.ucl.ac.uk/highereducation/books/data-analysis-using-regression-and-multilevel-hierarchical-models/32A29531C7FD730C3A68951A17C9D983). This is a comprehensive manual for the applied researcher who wants to perform data analysis using linear and nonlinear regression and multilevel models. 
 
 ## Covid papers
 - [A framework for estimating and visualising excess mortality during the COVID-19 pandemic](https://arxiv.org/abs/2201.06458)
