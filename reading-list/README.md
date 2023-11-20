@@ -26,7 +26,7 @@ Here are some relevant supporting material that you can have a look at
 
 - [*Bayes Rule*](https://www.bayesrulesbook.com/). This is a very good book on Bayesian modelling and it's useful in general. 
 - [Bayesian inference with INLA](https://becarioprecario.bitbucket.io/inla-gitbook/index.html). This is a very good book on the basics of Bayesian modelling, but using "Integrated Nested Laplace Approximation" for computation. It may be a bit technical, but useful, particularly when dealing with larger datasets.
-- 
+ 
 
 ## GLM 
 
