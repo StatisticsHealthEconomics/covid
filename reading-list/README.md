@@ -1,6 +1,6 @@
 # Selected reading material for the project
 
-The analysis of the dataset is mainly focused on *Generalised linear models*. These are regression models that can be used when the outcome variable can**not** be safely assumed to be generated from a process described by a Normal distribution. Instead, relevant cases are when the data are binary (modelled using a Binomial or Bernoulli distribution) or counts (modelled using a Poisson distribution).
+The analysis required for this project is focused mainly on "*meta-analysis*", possibly using binary or count outcomes, which would require generalised linear models. These are regression models that can be used when the outcome variable can**not** be safely assumed to be generated from a process described by a Normal distribution. Instead, relevant cases are when the data are binary (modelled using a Binomial or Bernoulli distribution) or counts (modelled using a Poisson distribution). Other types of models (including "random effects") can and should be explored.
 
 Here are some relevant supporting material that you can have a look at
 
