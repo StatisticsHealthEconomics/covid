@@ -1,5 +1,6 @@
 # (Bayesian) meta-analysis of vaccine interventions for the COVID-19 pandemic 
 ## BSc project - 30 credits
+### Difficulty: :grimacing: :grimacing: or :grimacing: :grimacing: :grimacing: (depending on specs)
 
 **Description**: Requires skills in `R` and may require some learning on Bayesian modelling. The basic requirement for the project is to use a systematic literature review conducted on various interventions for COVID-19 (mainly vaccines) and their various measures of effectiveness. The project can be layered and there are a number of outputs that can be achieved, from the most basic to more advanced:
 
