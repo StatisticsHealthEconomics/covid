@@ -13,3 +13,4 @@
    - This expands on the above projects to perform a Bayesian version of the modelling and considering outcomes that are not measured on the same scale (e.g. odds ratios, hazard ratios and relative risks), as well as across different disease outcomes (e.g. mortality and respiratory disease).
   
 4. **High difficulty** :grimacing: :grimacing: :grimacing:: [*Bayesian spatio-temporal modelling to estimate the excess mortality due to COVID-19*](https://github.com/StatisticsHealthEconomics/covid/tree/excess-mortality)
+   - This is a more complex modelling exercise, using population data (eg Census) to model the number of deaths in a time-series; predict the expected mortality during the pandemic, using past records; and then comparing the observed mortality with the predicted values, to estimate the excess due to Covid-19.
