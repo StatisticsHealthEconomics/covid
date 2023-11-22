@@ -9,7 +9,7 @@
 2. **Medium/high difficulty** :grimacing: :grimacing: or :grimacing: :grimacing: :grimacing:: *Bayesian Meta-analysis of vaccination against COVID-19*
    - This expands on the above project to perform a Bayesian version of the modelling 
   
-3. **High difficulty** :grimacing: :grimacing: :grimacing:: Bayesian Meta-analysis of vaccination against COVID-19 of heterogeneous clinical outcomes/disease areas*
+3. **High difficulty** :grimacing: :grimacing: :grimacing:: *Bayesian Meta-analysis of vaccination against COVID-19 of heterogeneous clinical outcomes/disease areas*
    - This expands on the above projects to perform a Bayesian version of the modelling and considering outcomes that are not measured on the same scale (e.g. odds ratios, hazard ratios and relative risks), as well as across different disease outcomes (e.g. mortality and respiratory disease).
   
 4. **High difficulty** :grimacing: :grimacing: :grimacing:: *Bayesian spatio-temporal modelling to estimate the excess mortality due to COVID-19*
