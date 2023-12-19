@@ -13,7 +13,7 @@ This folder consists of COVID-19 outcome data for individual given either Modern
 Different files contain data for different outcome type data.
 They are all _contrast-based_ outcomes meaning that they are a relative comparison statistic between the two types of vaccines.
 
-The data has been anonymised so that study/author and vaccine labels are replaced by an index ID. The original data can be obtained from the package authors.
+The data have been anonymised so that study/author and vaccine labels are replaced by an index ID. The original data can be obtained from the package authors.
 
 ## Outcome meaures
 
