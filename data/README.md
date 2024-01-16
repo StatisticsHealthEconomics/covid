@@ -83,7 +83,9 @@ The total list of fields in the data is given below. Not all fields are in all d
 * `N2` - Sample size of intervention2
 * `n1` - Number of cases for intervention1
 * `n2` - Number of cases for intervention2
-* `r` - Number of cases
-* `n` - Total time at risk
+* `r1` - Number of cases for intervention1
+* `v1` - Total time at risk for intervention1
+* `r2` - Number of cases for intervention2
+* `v2` - Total time at risk for intervention2
 * `yi` - Mean of number of outcome
 * `vi` - Variance of number of outcome
