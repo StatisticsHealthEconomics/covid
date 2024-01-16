@@ -29,7 +29,7 @@ There are five outcome measures available. Data for each of these is contained i
 
 There are 5 possible forms that the output statistics can take. Not all types are available for all outcomes.
 
-* `rate_data` - Rate/hazard ratio data
+* `rate_data` - Rate data
 * `bin_data` - Binary data
 * `ve_data` - Vaccine effectiveness data
 * `lhr_data` - Log-hazard ratio data
