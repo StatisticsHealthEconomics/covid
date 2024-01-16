@@ -35,6 +35,37 @@ There are 5 possible forms that the output statistics can take. Not all types ar
 * `lhr_data` - Log-hazard ratio data
 * `lor_data` - Log-odds ratio data
 
+## Data definitions
+
+The scales used in the data are defined below.
+
+#### Binary data
+These are the counts of the number of events of interest from some sample or group at risk.
+The data are provided in terms of counts and sample size.
+
+#### Hazard ratio (HR)
+The _hazard_ is an instantaneous probability or rate of occurence of an event of interest over a period of time.
+The _hazard ratio_ is then the relative difference between two hazards i.e. $h_1 = \alpha h_0$ where $h_0$ is the baseline hazard and $\alpha$ is the hazard ratio.
+The data are provided in terms of mean and standard errors.
+
+#### Relative risk (RR)
+
+_Risk_ is the probability of the occurance of an event of interest. This is estimated by the ratio of the number of events $x$ over the sample size $N$, i.e. $x/N$.
+The _relative risk_ (also called _risk ratio_) is the relative difference between two risks, i.e. $p_1/p_0$, estimated by $(x_1 N_0)/(x_0 N_1)$.
+
+#### Odds ratio (OR)
+The odds of an event of interest is the ratio of the probability of the event over the probability of the event not occuring, i.e. $p_1/(1-p_1)$.
+The _odds ratio_ is the relative difference between two odds, i.e.
+
+$$
+\frac{p_1/(1-p_1)}{p_0/(1-p_0)}.
+$$
+
+#### Vaccine effectiveness (VE)
+_Vaccine effectiveness_ is a measure of how well vaccines work in the real world (similar to _vaccine efficacy_ which is a measure in a controlled clinical trial).
+However, there is no single definition for VE. It is variously defined as 1-OR, 1-RR or 1-HR.
+
+
 ## Column names and desctiptions
 
 The total list of fields in the data is given below. Not all fields are in all data sets, depending on the type of data e.g. binary or continuous. The asterisk indicate that this field is not available in the anonymised data.
