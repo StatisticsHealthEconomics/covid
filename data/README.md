@@ -54,7 +54,7 @@ _Risk_ is the probability of the occurance of an event of interest. This is esti
 The _relative risk_ (also called _risk ratio_) is the relative difference between two risks, i.e. $p_1/p_0$, estimated by $(x_1 N_0)/(x_0 N_1)$.
 
 #### Odds ratio (OR)
-The odds of an event of interest is the ratio of the probability of the event over the probability of the event not occuring, i.e. $p_1/(1-p_1)$.
+The odds of an event of interest is the ratio of the probability of the event over the probability of the event not occuring, i.e. $p/(1-p)$.
 The _odds ratio_ is the relative difference between two odds, i.e.
 
 $$
@@ -66,7 +66,7 @@ _Vaccine effectiveness_ is a measure of how well vaccines work in the real world
 However, there is no single definition for VE. It is variously defined as 1-OR, 1-RR or 1-HR.
 
 
-## Column names and desctiptions
+## Column names and descriptions
 
 The total list of fields in the data is given below. Not all fields are in all data sets, depending on the type of data e.g. binary or continuous. The asterisk indicate that this field is not available in the anonymised data.
 
