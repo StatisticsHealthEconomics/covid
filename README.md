@@ -8,4 +8,4 @@
 - :grimacing: :grimacing: More complex evidence synthesis pooling together data about different measures for the same clinical outcome (can be conducted using frequentist methods, but ideally using a principled Bayesian approach);
 - :grimacing: :grimacing: :grimacing: More complex analysis pooling together data about different measures and different clinical outcomes (e.g. effect of vaccine on respiratory diseases *and* on mortality). This would be conducted under a Bayesian approach.
 
-The data have been collected (using work done in collaboration with Moderna, one  the manufactures of one of the vaccines implemented in 2020/21 during the COVID-19 pandemic). But you will need to understand the underlying principles for systematic literature review and the actual search conducted in this case.
+The data have been collected (using work done in collaboration with Moderna, one of the manufactures of the vaccines implemented in 2020/21 during the COVID-19 pandemic). But you will need to understand the underlying principles for systematic literature review and the actual search conducted in this case.
